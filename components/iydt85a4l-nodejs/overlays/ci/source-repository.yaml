@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iydt85a4l-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iydt85a4l-nodejs
